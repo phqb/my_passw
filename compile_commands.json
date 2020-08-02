@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/phqb/my_passw",
+  "command": "/run/current-system/sw/bin/cc  -I/home/phqb/my_passw/include    -o CMakeFiles/my_passw.dir/main.c.o   -c /home/phqb/my_passw/main.c",
+  "file": "/home/phqb/my_passw/main.c"
+}
+]
